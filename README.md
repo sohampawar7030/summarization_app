@@ -22,7 +22,7 @@ Ensure that you have Python 3.7+ installed.
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/sohampawar7030/text-summarization-app.git
+git clone https://github.com/sohampawar7030/summarization_app.git
 cd text-summarization-app
 ```
 ### 2. Install Dependencies
